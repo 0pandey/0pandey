@@ -110,14 +110,15 @@ A cinema booking application featuring:
 
 </div>
 
+
 <details>
-<summary><b>📈 View Contribution Activity</b></summary>
+<summary><b>🔥 Coding Streak</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0pandey&theme=github-dark" alt="GitHub Contribution Activity" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=0pandey&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
 
 </div>
 
