@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# Hey, I'm Srinivas 👋
+# Hey, I'm Pandey 👋
 
 ### Computer Science Student · Aspiring Full Stack Developer
 
@@ -112,16 +111,18 @@ A cinema booking application featuring:
 </div>
 
 <details>
-<summary><b>View Contribution Activity</b></summary>
+<summary><b>📈 View Contribution Activity</b></summary>
+
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0pandey&theme=github-compact&hide_border=true" width="100%" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0pandey&theme=github-dark" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
 </details>
+
 
 ---
 
