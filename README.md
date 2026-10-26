@@ -22,8 +22,8 @@
 ## <img src="https://cdn.simpleicons.org/github/58A6FF" width="22" height="22" alt=""/> About Me
 
 ```js
-const srinivas = {
-  education: "Computer Science Student",
+const pandey = {
+  education: "Computer Science",
   interests: ["Software Development", "Web Development"],
   learning: ["React", "Node.js", "Express"],
   motto: "Learn. Build. Improve."
@@ -104,21 +104,21 @@ A cinema booking application featuring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0pandey&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0pandey&show_icons=true" height="165" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pandey&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pandey&show_icons=true" height="165" alt="Most Used Languages"/>
 
 </div>
 
 
-<details>
+<details open>
 <summary><b>🔥 Coding Streak</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=0pandey&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=0pandey" alt="GitHub Streak Stats"/>
 
 </div>
 
